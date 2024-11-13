@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iceboard.Net.Core", "Iceboard.Net.Core\Iceboard.Net.Core.csproj", "{176DF2EC-8453-4F6E-8946-9E01401E9CB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iceboard.Net.Rest", "Iceboard.Net.Rest\Iceboard.Net.Rest.csproj", "{EDAE7F33-DB0C-4576-B856-E64DA46E23D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iceboard.Net.Websocket", "Iceboard.Net.Websocket\Iceboard.Net.Websocket.csproj", "{CE835607-0A28-4FFB-836A-D37281A2D0CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{176DF2EC-8453-4F6E-8946-9E01401E9CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176DF2EC-8453-4F6E-8946-9E01401E9CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176DF2EC-8453-4F6E-8946-9E01401E9CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176DF2EC-8453-4F6E-8946-9E01401E9CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDAE7F33-DB0C-4576-B856-E64DA46E23D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAE7F33-DB0C-4576-B856-E64DA46E23D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAE7F33-DB0C-4576-B856-E64DA46E23D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAE7F33-DB0C-4576-B856-E64DA46E23D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE835607-0A28-4FFB-836A-D37281A2D0CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE835607-0A28-4FFB-836A-D37281A2D0CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE835607-0A28-4FFB-836A-D37281A2D0CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE835607-0A28-4FFB-836A-D37281A2D0CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
